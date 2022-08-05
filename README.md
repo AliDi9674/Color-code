@@ -7,4 +7,6 @@ Used components are as below :
 <li> CSS basics </li>
 <li> Vanilla JavaScript </li>
 </ul>
-![](https://user-images.githubusercontent.com/47794850/183129951-50fed1aa-f0f2-471c-9e5d-07ddd84d6809.gif)
+
+![html-color](https://user-images.githubusercontent.com/47794850/183131127-eecf6785-0f0c-49d9-8645-11613ff453f7.gif)
+
