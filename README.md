@@ -7,4 +7,4 @@ Used components are as below :
 <li> CSS basics </li>
 <li> Vanilla JavaScript </li>
 </ul>
-![html-color](https://user-images.githubusercontent.com/47794850/183129951-50fed1aa-f0f2-471c-9e5d-07ddd84d6809.gif)
+![](https://user-images.githubusercontent.com/47794850/183129951-50fed1aa-f0f2-471c-9e5d-07ddd84d6809.gif)
